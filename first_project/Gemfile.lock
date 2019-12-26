@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cpf_cnpj (0.5.0)
+    os (1.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cpf_cnpj
+  os
+
+BUNDLED WITH
+   2.0.1
