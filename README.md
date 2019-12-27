@@ -1,2 +1,2 @@
 # ruby-exercises
-Exercises of the course Ruby Puro - One Bit Code
+[Ruby Puro - One Bit Code](https://onebitcode.com/course/ruby-puro/)
